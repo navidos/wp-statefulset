@@ -1,4 +1,4 @@
-### Service to expose the etcd endpoint for Percona XtraDB Cluster
+###"" Service to expose the etcd endpoint for Percona XtraDB Cluster
 apiVersion: v1
 kind: Service
 metadata:
